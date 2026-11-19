@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+.venv
+README.md
+scripts/
+.env
+.venv/
+__pycache__/
+.tmp_backup_*/
